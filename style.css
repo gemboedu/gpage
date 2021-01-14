@@ -9,7 +9,7 @@
     justify-content: center;
     padding: 16px;
     height: 40px;
-    background-color: brown;
+    background-color:teal;
     color: white;
 }
 .nav ul{
@@ -20,12 +20,12 @@
     margin-top: 16px;
     margin-bottom: 16px;
     text-align: center;
-    color:blue;
+    color:teal;
 }
 .container p{
     border: solid 1px #333;
     padding: 2rem;
-    width: 70%;
+    width: 80%;
     font-size: 20px;
     margin: 0 auto;
     border-radius: 5px;
