@@ -1,15 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
 .container h2{
+    margin-top: 16px;
+    margin-bottom: 16px;
     text-align: center;
     color:blue;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
 }
 .container p{
-    font-family: Arial, Helvetica, sans-serif;
     border: solid 1px blue;
     padding: 2rem;
     width: 50%;
     margin: 0 auto;
-    border-radius: 2rem;
+    border-radius: 5px;
     background-color:gainsboro;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    height: 40px;
+    background-color: brown;
+    color: white;
+}
+.nav ul{
+    text-decoration: none;
 }
